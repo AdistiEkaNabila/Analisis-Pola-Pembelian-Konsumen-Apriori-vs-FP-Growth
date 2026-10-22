@@ -16,16 +16,24 @@ Selain menemukan pola pembelian, proyek ini juga membandingkan performa kedua al
 
 ## 📂 Dataset
 Dataset yang digunakan adalah Retail Market Basket Transactions dari Kaggle.
+
 Jumlah transaksi: 7.501
+
 Jumlah item unik: 119
+
 Jumlah kolom item awal: 20
+
 Sumber dataset: Retail Market Basket Transactions – Kaggle
 
 ## 🧰 Tools & Technologies
 Python — bahasa pemrograman untuk analisis data.
+
 Pandas & NumPy — pengolahan dan manipulasi data.
+
 Matplotlib — visualisasi data dan hasil analisis.
+
 MLxtend — implementasi algoritma Apriori, FP-Growth, dan association rules.
+
 Google Colab / Jupyter Notebook — lingkungan pengembangan dan eksperimen.
 
 ## 📊 Hasil Utama
