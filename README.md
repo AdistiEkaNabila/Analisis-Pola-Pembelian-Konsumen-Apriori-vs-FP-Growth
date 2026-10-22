@@ -58,5 +58,7 @@ Performa tersebut berlaku pada dataset dan implementasi yang diuji, sehingga bel
 
 ## Tim Peneliti
 Adisti Eka Nabila
+
 Umi Imro'atus Sholekhah
+
 Maris Al Sabina Azzuhra
