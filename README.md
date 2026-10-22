@@ -39,6 +39,7 @@ Dengan minimum support sebesar 0,01 dan minimum confidence sebesar 0,3, diperole
 | Rata-rata confidence | 0,3683 | 0,3683 |
 | Rata-rata lift | 1,7742 | 1,7742 |
 | Runtime | 0,438 detik | 4,670 detik |
+
 Pada pengujian ini, kedua algoritma menghasilkan frequent itemsets dan association rules yang sama. Namun, Apriori memiliki waktu komputasi lebih singkat pada dataset yang digunakan.
 
 ## 💡 Insight Bisnis
